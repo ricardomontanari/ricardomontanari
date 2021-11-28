@@ -1,0 +1,5 @@
+- 👋 Olá, sou @ricardomontanari
+- 👀 Estou interessado em aprender e colaborar com a comunidade
+- 🌱 Atualmente estou aprendendo Angular, React Native e Java
+- 💞️ Estou procurando colaborar nas areas de Angular, React Native e Java
+- 📫 Como chegar até mim www.linkedin.com/in/ricardo-montanari
