@@ -1,11 +1,11 @@
 ## Faaaala dev, seja muito bem-vindo ao meu perfil!
 
-<div>
+<container>
   <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardomontanari&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
     <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomontanari&layout=compact&langs_count=16&theme=great-gatsby"/>
   </div>
-</div>
+</container>
 <br>
 
 <div align="center"> 
