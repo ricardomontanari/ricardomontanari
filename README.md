@@ -1,14 +1,15 @@
 ## Faaaala dev, seja muito bem-vindo ao meu perfil!
 
-<div align="center" style="display: inline_block">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardomontanari&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomontanari&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div>
+  <div align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardomontanari&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomontanari&layout=compact&langs_count=16&theme=great-gatsby"/>
+  </div>
 </div>
 <br>
 
 <div align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Habilidades</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
