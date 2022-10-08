@@ -17,18 +17,17 @@
       <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     </div>
-      
-    
-    <h1 align="center">Redes Sociais</h1>
-      <a href = "mailto: ricardo.montanari.work@outlook.com">
-        <img width="30" src="gmail.svg">
-      </a>
-      <a href = "https://www.linkedin.com/in/ricardo-montanari">
-        <img width="25" src="linkedin.svg">
-      </a>
-      <a href = "https://www.instagram.com/ricardo_montanari/">
-        <img width="25" src="instagram.png">
-      </a>
+
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: ricardo.montanari.work@outlook.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/ricardo-montanari">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.instagram.com/ricardo_montanari/">
+      <img width="25" src="instagram.png">
+    </a>
   </div>
 </container>
   
