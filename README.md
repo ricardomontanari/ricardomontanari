@@ -10,8 +10,8 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ricardomontanari&theme=gotham&hide_border=true&area=true)
 
-<div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<div align="center">
+<a href="https://www.instagram.com/ricardo_montanari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 <!--### Main skills:
